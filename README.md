@@ -1,5 +1,7 @@
 # ShufflerApp
 
+<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/76eafa8b-775c-47e3-a157-4e050925a909" />
+
 <img width="610" height="1358" alt="Screenshot_20260716-152640" src="https://github.com/user-attachments/assets/96965d3d-6f2f-4d03-99ad-7391228a572c" />
 <img width="686" height="1527" alt="Screenshot_20260716-152649" src="https://github.com/user-attachments/assets/b47e25ea-879a-4e7f-b45f-6d825814c072" />
 <img width="686" height="1527" alt="Screenshot_20260716-152649" src="https://github.com/user-attachments/assets/8154e88b-8674-42a3-8c49-61ddbe5cd4ae" />
