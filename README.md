@@ -42,19 +42,6 @@ Spotify-inspired design with a deep dark background and green accent throughout.
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/xeljazwix/Shuffler
-cd shuffler
-flutter pub get
-flutter run
-```
-
-You'll need a **TMDB API key** (free) and optionally a **Trakt.tv client ID** for sync. Set them in the respective provider files.
-
----
-
 ## Disclaimer
 
 This project is for educational purposes. The app does not host, store, or distribute any copyrighted content. Users are responsible for complying with their local laws regarding media streaming.
