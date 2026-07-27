@@ -35,7 +35,7 @@ Tap any provider logo on the home screen to see what's available from **Netflix*
 
 ### 📱 Phone & TV
 - Full-featured mobile app with gesture controls and Chromecast.
-- Android TV app with D-pad navigation and a cinematic home screen.
+- Android TV app with D-pad navigation and a cinematic home screen. (WIP)
 
 ### 🌙 Dark UI
 Spotify-inspired design with a deep dark background and green accent throughout. Glassmorphism, smooth transitions, and a persistent bottom nav for one-handed browsing.
