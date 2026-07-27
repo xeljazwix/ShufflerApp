@@ -1,17 +1,64 @@
-# ShufflerApp
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Shuffler" src="https://img.shields.io/badge/Shuffler-38E07B?style=for-the-badge">
+</picture>
 
-<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/76eafa8b-775c-47e3-a157-4e050925a909" />
+# Shuffler
 
-<img width="610" height="1358" alt="Screenshot_20260716-152640" src="https://github.com/user-attachments/assets/96965d3d-6f2f-4d03-99ad-7391228a572c" />
-<img width="686" height="1527" alt="Screenshot_20260716-152649" src="https://github.com/user-attachments/assets/b47e25ea-879a-4e7f-b45f-6d825814c072" />
-<img width="1084" height="2412" alt="Screenshot_20260716-152655" src="https://github.com/user-attachments/assets/2e799ed2-3373-4fd6-b499-acda0c2ab925" />
-<img width="1084" height="2412" alt="Screenshot_20260716-152704" src="https://github.com/user-attachments/assets/6b0ffb35-96c6-4515-aa37-23a0eb8cba33" />
-<img width="1084" height="2412" alt="Screenshot_20260716-152717" src="https://github.com/user-attachments/assets/fe57a4e8-5c6f-4a75-8c21-265775400f3b" />
-<img width="1084" height="2412" alt="Screenshot_20260716-152724" src="https://github.com/user-attachments/assets/f961d414-24b0-44d8-b303-a41dba435a53" />
-<img width="696" height="1548" alt="Screenshot_20260716-152738" src="https://github.com/user-attachments/assets/3230981f-cbe5-4897-a5dd-d5380bfe5e7c" />
-<img width="680" height="1513" alt="Screenshot_20260716-152800" src="https://github.com/user-attachments/assets/def36d7f-7d1b-47b9-9e53-c64763ff3fec" />
-<img width="1084" height="2412" alt="Screenshot_20260716-152807" src="https://github.com/user-attachments/assets/0d2599df-50e4-4243-9fea-55c30cbdaadf" />
-<img width="1084" height="2412" alt="Screenshot_20260716-152813" src="https://github.com/user-attachments/assets/54a6db5d-a2e3-4931-a7d7-7c5ea199138a" />
-<img width="770" height="1713" alt="Screenshot_20260716-152818" src="https://github.com/user-attachments/assets/fc3e1641-152e-445c-b563-c9df103e6b74" />
-<img width="1084" height="2412" alt="Screenshot_20260716-152840" src="https://github.com/user-attachments/assets/3f169250-c005-4882-a038-1c600c5e5fe6" />
+A cinematic streaming app for movies, series, and anime. Browse trending content, dive into platform exclusives from your favorite streaming services, and watch instantly — all in a sleek, dark UI.
 
+---
+
+## How It Works
+
+Shuffler pulls movie and show metadata from **TMDB** to build a rich browsing experience — trending, popular, top rated, genre pages, and more. When you tap play, it searches third-party sources for available streams, ranks them by quality, and lets you pick the best one.
+
+**It doesn't host any content.** It's a media browser that finds publicly indexed streams and plays them back inside a native video player with hardware acceleration, subtitle support, Chromecast, and gesture controls.
+
+---
+
+## Features
+
+### 🎬 Browse Everything
+- Trending hero carousel that auto-cycles through the top movies, series, and anime.
+- Genre discovery, popular, top rated, upcoming, now playing — all with infinite scroll.
+- Cast & crew profiles with clickable actor pages.
+
+### 📺 Streaming Provider Pages
+Tap any provider logo on the home screen to see what's available from **Netflix**, **Amazon Prime Video**, **Apple TV+**, **Disney+**, **HBO Max**, **Hulu**, **Paramount+**, and **Peacock**. Each page is split into popular and top rated sections for both movies and series, with a year filter and genre rows.
+
+### ▶️ Play Instantly
+- Pick a stream from a ranked list (highest quality first).
+- Hardware-accelerated playback via **mpv**.
+- Chromecast to your TV.
+- Download subtitles on the fly with custom styling.
+
+### 📱 Phone & TV
+- Full-featured mobile app with gesture controls and Chromecast.
+- Android TV app with D-pad navigation and a cinematic home screen.
+
+### 🌙 Dark UI
+Spotify-inspired design with a deep dark background and green accent throughout. Glassmorphism, smooth transitions, and a persistent bottom nav for one-handed browsing.
+
+---
+
+## Quick Start
+
+```bash
+git clone https://github.com/xeljazwix/Shuffler
+cd shuffler
+flutter pub get
+flutter run
+```
+
+You'll need a **TMDB API key** (free) and optionally a **Trakt.tv client ID** for sync. Set them in the respective provider files.
+
+---
+
+## Disclaimer
+
+This project is for educational purposes. The app does not host, store, or distribute any copyrighted content. Users are responsible for complying with their local laws regarding media streaming.
+
+---
+
+**Made with Flutter**
