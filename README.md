@@ -42,14 +42,20 @@ Shuffler doesn't lock you into one source. Choose the streaming method that fits
 ### ⏭️ Playback that respects your time
 - **Up Next** — a small card appears as an episode wraps up, so you can jump straight into the next one without lifting a finger to search.
 - **Skip Intro, Recap & Outro** — real, community-sourced skip points for TV shows, with an optional auto-skip mode.
-- **Resume, exactly** — pick up a movie or episode right where you paused it, every time.
+- **Resume, exactly** — pick up a movie or episode right where you paused it, every time, on the same source you were already watching from.
 - **Subtitles that look right** — search and download subtitles for the exact episode you're watching, and fine-tune their size, color, and position live inside the player.
+
+### ✅ Keep track of everything
+- **Watched, or not yet** — mark any episode as watched or unwatched, and it stays in sync across your devices.
+- **Watch status** — sort My List into Plan to Watch, Watching, and Completed.
+- **Episode calendar** — see when new episodes of the shows in your list come out, and get a notification the moment one lands.
+- **Start fresh** — reset a title's watch progress anytime (with a quick confirmation, so you never lose it by accident).
 
 ### ⬇️ Take it offline
 Download movies and full seasons for offline viewing. Downloads keep going in the background, automatically retry if something hiccups, and pause on mobile data if you'd rather save it for Wi-Fi.
 
 ### 🔔 Stay in the loop
-A notification bell keeps you posted on news from the Shuffler team — new features, announcements, and things worth checking out — right inside the app.
+A notification bell keeps you posted on news from the Shuffler team — new features, announcements, and things worth checking out — right inside the app. And after every update, a quick **What's New** popup shows you exactly what changed.
 
 ### 🌍 Made to feel like home
 Full Arabic language support with proper right-to-left layout, alongside English — more languages on the way.
@@ -62,11 +68,25 @@ Shuffler isn't just a phone app. The **Shuffler Windows app** brings the exact s
 
 ## 📺 Android TV — Closed Beta
 
-An Android TV experience, built for the couch and a remote control, is currently in **closed beta** — it's being polished and isn't publicly available yet. Want early access? Come say hi on [Discord](https://discord.gg/pje9Tdu4m3) — beta invites go out there first.
+**The Shuffler Android TV beta has started!** A full TV experience, built from the ground up for the couch and a remote control — not a stretched phone app.
+
+- **Plays everything** — HEVC (x265), 10-bit, HDR, and AV1 videos play through your TV's own hardware decoder, at your screen's full resolution.
+- **Sign in in seconds** — scan the QR code on your TV with your phone (Profile → Sign in on TV in the Shuffler app), or enter the code on the website. No typing passwords with a remote.
+- **Search your way** — the Android TV keyboard, or just say it with voice search.
+- **Everything from the phone app** — Continue Watching, For You, your custom genre rows, My List with watch status, the episode calendar, skip intro/recap/outro with auto-skip, subtitle styling right in the player, and switching sources without leaving the player.
+- **Your home screen, your style** — pick a black, white, or green Shuffler banner for your TV's home screen.
+
+### How to join the beta
+
+The TV app is **invite-only** while in beta. Anyone can download it, but only accounts on the beta list can sign in. If your account isn't on the list yet, the TV (and the sign-in page) will tell you so, and show a QR code that takes you straight to our Discord.
+
+To apply, [**join the Discord**](https://discord.gg/pje9Tdu4m3) and ask for beta access. Once you're added, just sign in on your TV — or press **Check again** if you're already on the beta screen.
 
 ---
 
 ## 📱 See it in action
+
+### 📱 On your phone
 
 <div align="center">
 <img width="250" alt="Shuffler screenshot" src="https://github.com/user-attachments/assets/96965d3d-6f2f-4d03-99ad-7391228a572c" />
@@ -81,6 +101,28 @@ An Android TV experience, built for the couch and a remote control, is currently
 <img width="250" alt="Shuffler screenshot" src="https://github.com/user-attachments/assets/54a6db5d-a2e3-4931-a7d7-7c5ea199138a" />
 <img width="250" alt="Shuffler screenshot" src="https://github.com/user-attachments/assets/fc3e1641-152e-445c-b563-c9df103e6b74" />
 <img width="250" alt="Shuffler screenshot" src="https://github.com/user-attachments/assets/3f169250-c005-4882-a038-1c600c5e5fe6" />
+</div>
+
+### 📺 On Android TV
+
+<div align="center">
+<img width="400" alt="Sign in on your TV with a QR code" src="Screenshots/TV/tv_01_sign_in.png" />
+<img width="400" alt="Home" src="Screenshots/TV/tv_03_home.png" />
+<img width="400" alt="Series details" src="Screenshots/TV/tv_10_series_details.png" />
+<img width="400" alt="Episodes with watched marking" src="Screenshots/TV/tv_11_episodes.png" />
+<img width="400" alt="Source picker" src="Screenshots/TV/tv_12_sources.png" />
+<img width="400" alt="Settings and home screen banner styles" src="Screenshots/TV/tv_15_settings_appearance.png" />
+<img width="400" alt="Playback and subtitle settings" src="Screenshots/TV/tv_16_settings_playback.png" />
+<img width="400" alt="Torrent settings" src="Screenshots/TV/tv_17_settings_torrent.png" />
+<img width="400" alt="Home rows and For You" src="Screenshots/TV/tv_04_home_rows.png" />
+<img width="400" alt="Streaming service page" src="Screenshots/TV/tv_05_provider.png" />
+<img width="400" alt="My List with watch status" src="Screenshots/TV/tv_13_my_list.png" />
+<img width="400" alt="Discover" src="Screenshots/TV/tv_08_discover.png" />
+<img width="400" alt="Movie details" src="Screenshots/TV/tv_06_movie_details.png" />
+<img width="400" alt="Search" src="Screenshots/TV/tv_09_search.png" />
+<img width="400" alt="Episode calendar" src="Screenshots/TV/tv_14_calendar.png" />
+<img width="400" alt="Pick your taste" src="Screenshots/TV/tv_02_taste.png" />
+<img width="400" alt="Side menu" src="Screenshots/TV/tv_07_menu.png" />
 </div>
 
 ---
