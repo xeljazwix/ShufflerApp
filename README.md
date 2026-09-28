@@ -76,6 +76,18 @@ Shuffler isn't just a phone app. The **Shuffler Windows app** brings the exact s
 - **Everything from the phone app** — Continue Watching, For You, your custom genre rows, My List with watch status, the episode calendar, skip intro/recap/outro with auto-skip, subtitle styling right in the player, and switching sources without leaving the player.
 - **Your home screen, your style** — pick a black, white, or green Shuffler banner for your TV's home screen.
 
+### Install it on your TV
+
+On your Android TV, Google TV, or Fire TV, install the free **Downloader** app (by AFTVnews) from your TV's app store, open it, and enter this code:
+
+<div align="center">
+
+## `5267155`
+
+</div>
+
+Downloader fetches and installs the latest Shuffler TV app for you — no computer or USB stick needed. You can also grab the TV APK from the [website](https://shuffler-web.vercel.app/#download).
+
 ### How to join the beta
 
 The TV app is **invite-only** while in beta. Anyone can download it, but only accounts on the beta list can sign in. If your account isn't on the list yet, the TV (and the sign-in page) will tell you so, and show a QR code that takes you straight to our Discord.
