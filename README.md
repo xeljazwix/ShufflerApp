@@ -8,7 +8,7 @@
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-download)
 [![Windows](https://img.shields.io/badge/Windows-Companion%20App-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-also-on-windows)
-[![Android TV](https://img.shields.io/badge/Android%20TV-Closed%20Beta-orange?style=for-the-badge)](#-android-tv--closed-beta)
+[![Android TV](https://img.shields.io/badge/Android%20TV-Available-1DB954?style=for-the-badge&logo=androidtv&logoColor=white)](#-android-tv)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pje9Tdu4m3)
 [![Donate](https://img.shields.io/badge/%F0%9F%AA%99_Support_the_Project-Coindrop-FFB800?style=for-the-badge)](https://coindrop.to/shuffler)
@@ -30,6 +30,17 @@ No clutter. No confusing menus. Just point, pick, and press play.
 ### 🎬 A library that never runs out
 Trending, popular, top-rated, and newly-released movies, series, and anime, all beautifully organized and instantly searchable. Every title comes with real IMDb ratings, a poster-first browsing experience, and an "In Theaters" badge so you always know what's fresh.
 
+### 🔀 Can't decide? Shuffle.
+Tap the shuffle mark on Home, answer a few quick questions — your mood, how much time you have, who you're watching with — and **Shuffler AI** picks a movie, a series, or even a single episode for you, revealed with a poster shuffle. Pick one or more titles you love to get something similar, and get anime-specific questions when you're in the anime section. Bring your own key for OpenAI, Claude, Gemini, or open-source models through OpenRouter or Groq.
+
+### 🌸 Anime, with a home of its own
+Anime has its own section, completely separate from movies and series: its own Home, Discover and Search, its own watch history, My List and episode calendar, and its own colours.
+- **Sub or Dub** — every episode and anime movie offers both, right in the source picker.
+- **Beautiful pages** — full-size posters and title logos, carefully matched so you never see a live-action adaptation by mistake.
+- **Skip Intro, Outro & Recap** — powered by AniSkip.
+- **Its own languages** — set anime audio and subtitle languages separately from everything else.
+- **Download episodes** — one at a time, or select several and grab them all in one go.
+
 ### 🎯 Built around your taste
 Tell Shuffler what you like once, and your own personal **For You** row keeps getting smarter — genuinely tailored picks, not generic "trending" filler. Prefer full control? Customize which genre rows appear on your Home screen, and in what order.
 
@@ -47,12 +58,13 @@ Shuffler doesn't lock you into one source. Choose the streaming method that fits
 
 ### ✅ Keep track of everything
 - **Watched, or not yet** — mark any episode as watched or unwatched, and it stays in sync across your devices.
-- **Watch status** — sort My List into Plan to Watch, Watching, and Completed.
+- **Always on the right episode** — details pages open on the episode you're up to, in the right season, ready to resume or start the next one. Continue Watching moves on to the next episode by itself.
+- **Watch status** — every title you add to My List gets a status: Plan to Watch, Watching, or Completed — and your lists show up as rows right on Home.
 - **Episode calendar** — see when new episodes of the shows in your list come out, and get a notification the moment one lands.
 - **Start fresh** — reset a title's watch progress anytime (with a quick confirmation, so you never lose it by accident).
 
 ### ⬇️ Take it offline
-Download movies and full seasons for offline viewing. Downloads keep going in the background, automatically retry if something hiccups, and pause on mobile data if you'd rather save it for Wi-Fi.
+Download movies, full seasons, single episodes, or a handful of anime episodes at once for offline viewing. The Downloads page shows each download's live progress and when it will finish, groups your shows by season and episode, and lets you delete a whole show, a season, or a single episode — always with a confirmation first. Downloads keep going in the background, automatically retry if something hiccups, and pause on mobile data if you'd rather save it for Wi-Fi.
 
 ### 🔔 Stay in the loop
 A notification bell keeps you posted on news from the Shuffler team — new features, announcements, and things worth checking out — right inside the app. And after every update, a quick **What's New** popup shows you exactly what changed.
@@ -66,15 +78,16 @@ Full Arabic language support with proper right-to-left layout, alongside English
 
 Shuffler isn't just a phone app. The **Shuffler Windows app** brings the exact same library, streaming sources, and playback features to your desktop — with a proper big-screen layout, keyboard shortcuts, system tray controls, and native download notifications. Perfect for the living room PC or a lazy Sunday on the couch. **(WIP)**
 
-## 📺 Android TV — Closed Beta
+## 📺 Android TV
 
-**The Shuffler Android TV beta has started!** A full TV experience, built from the ground up for the couch and a remote control — not a stretched phone app.
+**Shuffler for Android TV is out of beta — anyone can sign in.** A full TV experience, built from the ground up for the couch and a remote control — not a stretched phone app.
 
 - **Plays everything** — HEVC (x265), 10-bit, HDR, and AV1 videos play through your TV's own hardware decoder, at your screen's full resolution.
 - **Sign in in seconds** — scan the QR code on your TV with your phone (Profile → Sign in on TV in the Shuffler app), or enter the code on the website. No typing passwords with a remote.
 - **Search your way** — the Android TV keyboard, or just say it with voice search.
-- **Everything from the phone app** — Continue Watching, For You, your custom genre rows, My List with watch status, the episode calendar, skip intro/recap/outro with auto-skip, subtitle styling right in the player, and switching sources without leaving the player.
-- **Your home screen, your style** — pick a black, white, or green Shuffler banner for your TV's home screen.
+- **Everything from the phone app** — Continue Watching, For You, your custom genre rows, My List with watch status, the episode calendar, the full anime section with Sub and Dub, Shuffler AI, skip intro/recap/outro with auto-skip, subtitle styling right in the player, and switching sources without leaving the player.
+- **Idle mode** — leave the TV alone for a while and Shuffler turns into a full-screen slideshow of movies, series and anime with artwork, details and logos. Choose when it starts, what it shows, how long each slide stays, the clock and its format, and when the TV goes to sleep.
+- **Your home screen, your style** — pick a black, white, green, or anime-coloured Shuffler banner for your TV's home screen, or the special anime banner.
 
 ### Install it on your TV
 
@@ -87,12 +100,6 @@ On your Android TV, Google TV, or Fire TV, install the free **Downloader** app (
 </div>
 
 Downloader fetches and installs the latest Shuffler TV app for you — no computer or USB stick needed. You can also grab the TV APK from the [website](https://shuffler-web.vercel.app/#download).
-
-### How to join the beta
-
-The TV app is **invite-only** while in beta. Anyone can download it, but only accounts on the beta list can sign in. If your account isn't on the list yet, the TV (and the sign-in page) will tell you so, and show a QR code that takes you straight to our Discord.
-
-To apply, [**join the Discord**](https://discord.gg/pje9Tdu4m3) and ask for beta access. Once you're added, just sign in on your TV — or press **Check again** if you're already on the beta screen.
 
 ---
 
@@ -161,8 +168,12 @@ Shuffler is free, ad-light, and built by people who just wanted a better way to 
 
 ## 💬 Join the Community
 
-Got a feature idea, found a bug, or just want to hang out with other people who love movies? Our Discord is the heart of the project — announcements, beta access (including Android TV!), and direct chats with the people building Shuffler.
+Got a feature idea, found a bug, or just want to hang out with other people who love movies? Our Discord is the heart of the project — announcements, early looks at what's coming, and direct chats with the people building Shuffler.
 
 ### [![Discord](https://img.shields.io/badge/Join%20the%20Shuffler%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pje9Tdu4m3)
 
 </div>
+
+## Credits
+
+- Anime TV banner artwork by **Sonika Rud** (free with attribution).
