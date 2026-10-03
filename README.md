@@ -11,7 +11,7 @@
 [![Android TV](https://img.shields.io/badge/Android%20TV-Available-1DB954?style=for-the-badge&logo=androidtv&logoColor=white)](#-android-tv)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pje9Tdu4m3)
-[![Donate](https://img.shields.io/badge/%F0%9F%AA%99_Support_the_Project-Coindrop-FFB800?style=for-the-badge)](https://coindrop.to/shuffler)
+[![Donate](https://img.shields.io/badge/Support_the_Project-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kingfeather)
 
 </div>
 
@@ -154,11 +154,11 @@ Grab the latest Android APK from the [**Releases**](https://github.com/xeljazwix
 
 <div align="center">
 
-## 🪙 Enjoying Shuffler?
+## ☕ Enjoying Shuffler?
 
-Shuffler is free, ad-light, and built by people who just wanted a better way to watch. If it's earned a spot on your home screen, consider dropping a coin in the jar — every bit helps keep it alive and growing.
+Shuffler is free, ad-light, and built by people who just wanted a better way to watch. If it's earned a spot on your home screen, consider buying us a coffee — every bit helps keep it alive and growing.
 
-### [🪙 Support Shuffler on Coindrop](https://coindrop.to/shuffler)
+### [☕ Support Shuffler on Ko-fi](https://ko-fi.com/kingfeather)
 
 </div>
 
