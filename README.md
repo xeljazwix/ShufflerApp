@@ -7,7 +7,7 @@
 ### Movies. Series. Anime. Shuffled together, streamed your way.
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-download)
-[![Windows](https://img.shields.io/badge/Windows-Companion%20App-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-also-on-windows)
+[![Windows](https://img.shields.io/badge/Windows-Available-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-on-windows)
 [![Android TV](https://img.shields.io/badge/Android%20TV-Available-1DB954?style=for-the-badge&logo=androidtv&logoColor=white)](#-android-tv)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pje9Tdu4m3)
@@ -74,9 +74,21 @@ Full Arabic language support with proper right-to-left layout, alongside English
 
 ---
 
-## 🖥️ Also on Windows
+## 🖥️ On Windows
 
-Shuffler isn't just a phone app. The **Shuffler Windows app** brings the exact same library, streaming sources, and playback features to your desktop — with a proper big-screen layout, keyboard shortcuts, system tray controls, and native download notifications. Perfect for the living room PC or a lazy Sunday on the couch. **(WIP)**
+**Shuffler for Windows is here** — a real desktop app built for Windows from the ground up, not a phone app in a window. Same account, same library, same sources: sign in and your My List, watch history and settings are already there.
+
+- **Everything from the phone app** — movies, series and the full anime section with Sub and Dub, For You, your custom genre rows, My List with watch status, the episode calendar, Continue Watching, Shuffler AI, and downloads with the redesigned Downloads page.
+- **Made for a mouse and keyboard** — a sidebar that's always one click away, poster grids that fill however wide your window is, and **Ctrl+K** to search anything from anywhere.
+- **A proper desktop player** — Space to pause, arrow keys to seek and change the volume, F or a double-click for fullscreen, M to mute, L for an A-B loop, S for a screenshot. Subtitles, audio tracks, playback speed and the episode list all open right beside the video.
+- **Feels at home on Windows** — media keys and the Windows media overlay control playback, download progress shows on the taskbar icon, Shuffler lives in the system tray, and new episodes of the shows you follow arrive as Windows notifications — even when Shuffler is closed.
+- **Opens what you throw at it** — `magnet:` links, and `.mkv`, `.mp4`, `.avi` and `.srt` files through "Open with".
+
+### Install it on your PC
+
+Download **ShufflerSetup** from the [**Releases**](https://github.com/xeljazwix/ShufflerApp/releases) page and run it. It installs just for you, with no administrator rights needed. Windows 10 (version 1809) or newer, 64-bit.
+
+Windows may show a SmartScreen warning the first time, because the installer isn't signed yet — choose **More info → Run anyway**. Already using the older Shuffler PC build? The new installer upgrades it in place, and keeps your sign-in, settings and downloads.
 
 ## 📺 Android TV
 
@@ -148,7 +160,7 @@ Downloader fetches and installs the latest Shuffler TV app for you — no comput
 
 ## ⬇ Download
 
-Grab the latest Android APK from the [**Releases**](https://github.com/xeljazwix/ShufflerApp/releases) page of this repository. New versions land there first, alongside the full list of what's new in each one.
+Grab the latest Android APK and the Windows installer from the [**Releases**](https://github.com/xeljazwix/ShufflerApp/releases) page of this repository. New versions land there first, alongside the full list of what's new in each one. For Android TV, use the Downloader code in the [Android TV](#-android-tv) section.
 
 ---
 
@@ -174,6 +186,24 @@ Got a feature idea, found a bug, or just want to hang out with other people who 
 
 </div>
 
-## Credits
+## 👨‍💻 Developers
 
-- Anime TV banner artwork by **Sonika Rud** (free with attribution).
+<div align="center">
+
+<a href="https://github.com/xeljazwix"><img src="https://github.com/xeljazwix.png?size=120" width="90" height="90" alt="xeljazwix" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/qusaialjbali"><img src="https://github.com/qusaialjbali.png?size=120" width="90" height="90" alt="qusaialjbali" /></a>
+
+[**@xeljazwix**](https://github.com/xeljazwix) &nbsp;·&nbsp; [**@qusaialjbali**](https://github.com/qusaialjbali)
+
+---
+
+## ⚖️ Disclaimer & DMCA
+
+**Shuffler does not host any media.** No movies, series, anime, or other media files are stored on, uploaded to, or streamed from our servers. Our servers only keep account data such as your profile, settings, favorites, and watch history.
+
+Everything you play in Shuffler comes from third-party websites, sources, add-ons, plugins, or peer-to-peer networks that we do not own, operate, or control. Because we do not host any content, we are not responsible for it and we cannot remove it from the internet. Any copyright concern about a file must go to the website or service that actually hosts it.
+
+You alone are responsible for what you stream, download, or share, and for following the copyright laws of your country. Torrent (peer-to-peer) streaming shows your IP address to everyone sharing the same torrent, so we strongly recommend using a VPN.
+
+Read the full [Terms of Service](https://shuffler-web.vercel.app/terms) and [DMCA & Copyright notice](https://shuffler-web.vercel.app/dmca). The app asks every account to accept them before use.
