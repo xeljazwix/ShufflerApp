@@ -17,6 +17,9 @@
 
 ---
 
+> [!IMPORTANT]
+> **Shuffler 1.2.4 moves to a new account server. Update by hand this time.** Older versions can't reach the new server, so they won't tell you an update is available. Download 1.2.4 from the [website](https://shuffler-web.vercel.app/#download) or the [Releases](https://github.com/xeljazwix/ShufflerApp/releases) page and install it over your current version, then sign in with the same email and password. Your favorites, watch history and settings are all there.
+
 ## What is Shuffler?
 
 Shuffler is a free, community-built home for everything you want to watch — movies, TV series, and anime, all in one clean, fast, no-nonsense app. Browse what's trending, pick up exactly where you left off, and start watching in seconds, on your phone, your TV, or your PC.
@@ -32,6 +35,12 @@ Trending, popular, top-rated, and newly-released movies, series, and anime, all 
 
 ### 🔀 Can't decide? Shuffle.
 Tap the shuffle mark on Home, answer a few quick questions — your mood, how much time you have, who you're watching with — and **Shuffler AI** picks a movie, a series, or even a single episode for you, revealed with a poster shuffle. Pick one or more titles you love to get something similar, and get anime-specific questions when you're in the anime section. Bring your own key for OpenAI, Claude, Gemini, or open-source models through OpenRouter or Groq.
+
+### 📺 Live TV
+Shared channels that everyone watches at the same moment, like real TV: movies, series and anime on a schedule, with a guide showing what's on now and next. Chat alongside each channel (with GIF search, powered by KLIPY), and vote on Community Night for what the channel plays next. On Android TV, a QR code opens the chat on your phone.
+
+### 💬 Rate, review and discuss
+Rate any movie, series or anime from 1 to 10, write reviews with spoiler tags, and talk about whole titles or single episodes in their own discussions. Discussions are shared with our [Discord server](https://discord.gg/pje9Tdu4m3): posts from the app appear there, and replies from Discord appear in the app. Link your Discord account in Settings to get your supporter role automatically.
 
 ### 🌸 Anime, with a home of its own
 Anime has its own section, completely separate from movies and series: its own Home, Discover and Search, its own watch history, My List and episode calendar, and its own colours.
@@ -74,11 +83,28 @@ Full Arabic language support with proper right-to-left layout, alongside English
 
 ---
 
+## 💎 Plans
+
+Everything in Shuffler is free. Supporters get a few extras and help keep it running.
+
+| Plan | How to get it | What you get |
+| --- | --- | --- |
+| **Shuffle** | Free | The whole app. Watching is unlocked with short ads. |
+| **Reshuffle** | $2.99 a month on [Patreon](https://shuffler-web.vercel.app) (link it on the website, signed in with your Shuffler account) | All supporter perks while you're subscribed. Cancel any time. |
+| **Infinite Shuffle** | A donation through [Ko-fi](https://ko-fi.com/kingfeather) | All supporter perks for life, on every device signed in to your account. |
+
+**Supporter perks:** no ads on any of your devices, Theme Studio (AMOLED black, curated themes and your own accent colour), your own Home layout (reorder or hide rows, pick the card size), and a supporter badge on your profile, in Live TV chat and in discussions, plus a supporter role on Discord. You can preview the perks in Settings before subscribing.
+
+**How the ads work on the free plan:** one short ad unlocks 6 hours of watching. You can save up to 24 hours, with up to 4 ads a day. If no ad is available, you can take a free hour instead, once a day. Your remaining time shows in Settings.
+
+> [!NOTE]
+> **Already donated on Ko-fi?** Send me a direct message with the email of your Shuffler account, and I'll turn on your lifetime plan.
+
 ## 🖥️ On Windows
 
 **Shuffler for Windows is here** — a real desktop app built for Windows from the ground up, not a phone app in a window. Same account, same library, same sources: sign in and your My List, watch history and settings are already there.
 
-- **Everything from the phone app** — movies, series and the full anime section with Sub and Dub, For You, your custom genre rows, My List with watch status, the episode calendar, Continue Watching, Shuffler AI, and downloads with the redesigned Downloads page.
+- **Everything from the phone app** — movies, series and the full anime section with Sub and Dub, For You, your custom genre rows, My List with watch status, the episode calendar, Continue Watching, Shuffler AI, Live TV with chat, ratings, reviews and discussions, and downloads with the redesigned Downloads page.
 - **Made for a mouse and keyboard** — a sidebar that's always one click away, poster grids that fill however wide your window is, and **Ctrl+K** to search anything from anywhere.
 - **A proper desktop player** — Space to pause, arrow keys to seek and change the volume, F or a double-click for fullscreen, M to mute, L for an A-B loop, S for a screenshot. Subtitles, audio tracks, playback speed and the episode list all open right beside the video.
 - **Feels at home on Windows** — media keys and the Windows media overlay control playback, download progress shows on the taskbar icon, Shuffler lives in the system tray, and new episodes of the shows you follow arrive as Windows notifications — even when Shuffler is closed.
@@ -97,7 +123,7 @@ Windows may show a SmartScreen warning the first time, because the installer isn
 - **Plays everything** — HEVC (x265), 10-bit, HDR, and AV1 videos play through your TV's own hardware decoder, at your screen's full resolution.
 - **Sign in in seconds** — scan the QR code on your TV with your phone (Profile → Sign in on TV in the Shuffler app), or enter the code on the website. No typing passwords with a remote.
 - **Search your way** — the Android TV keyboard, or just say it with voice search.
-- **Everything from the phone app** — Continue Watching, For You, your custom genre rows, My List with watch status, the episode calendar, the full anime section with Sub and Dub, Shuffler AI, skip intro/recap/outro with auto-skip, subtitle styling right in the player, and switching sources without leaving the player.
+- **Everything from the phone app** — Continue Watching, For You, your custom genre rows, My List with watch status, the episode calendar, the full anime section with Sub and Dub, Shuffler AI, Live TV, ratings and the newest reviews on details pages, skip intro/recap/outro with auto-skip, subtitle styling right in the player, and switching sources without leaving the player.
 - **Idle mode** — leave the TV alone for a while and Shuffler turns into a full-screen slideshow of movies, series and anime with artwork, details and logos. Choose when it starts, what it shows, how long each slide stays, the clock and its format, and when the TV goes to sleep.
 - **Your home screen, your style** — pick a black, white, green, or anime-coloured Shuffler banner for your TV's home screen, or the special anime banner.
 
@@ -160,7 +186,7 @@ Downloader fetches and installs the latest Shuffler TV app for you — no comput
 
 ## ⬇ Download
 
-Grab the latest Android APK and the Windows installer from the [**Releases**](https://github.com/xeljazwix/ShufflerApp/releases) page of this repository. New versions land there first, alongside the full list of what's new in each one. For Android TV, use the Downloader code in the [Android TV](#-android-tv) section.
+Grab the latest Android APK and the Windows installer from the [**Releases**](https://github.com/xeljazwix/ShufflerApp/releases) page of this repository. New versions land there first, alongside the full list of what's new in each one. Coming from a version before 1.2.4? Install 1.2.4 by hand from here or the website, since older versions won't show the update. For Android TV, use the Downloader code in the [Android TV](#-android-tv) section.
 
 ---
 
@@ -168,7 +194,7 @@ Grab the latest Android APK and the Windows installer from the [**Releases**](ht
 
 ## ☕ Enjoying Shuffler?
 
-Shuffler is free, ad-light, and built by people who just wanted a better way to watch. If it's earned a spot on your home screen, consider buying us a coffee — every bit helps keep it alive and growing.
+Shuffler is free and built by people who just wanted a better way to watch. If it's earned a spot on your home screen, consider buying us a coffee — every bit helps keep it alive and growing, and a Ko-fi donation unlocks the lifetime **Infinite Shuffle** plan (see [Plans](#-plans)).
 
 ### [☕ Support Shuffler on Ko-fi](https://ko-fi.com/kingfeather)
 
