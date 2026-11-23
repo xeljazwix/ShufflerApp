@@ -1,11 +1,15 @@
 <div align="center">
 
-<img width="120" height="120" alt="Shuffler app icon" src="assets/branding/app-icon-512.png" />
+<p align="center">
+  <img width="120" height="120" alt="Shuffler app icon" src="assets/branding/app-icon-512.png" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/branding/lockup-on-dark.png" />
-  <img width="340" alt="Shuffler" src="assets/branding/lockup-on-light.png" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/branding/wordmark-white.png" />
+    <img width="300" alt="Shuffler" src="assets/branding/wordmark-dark.png" />
+  </picture>
+</p>
 
 ### Movies. Series. Anime. Watch them alone or together.
 
